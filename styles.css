@@ -2,4 +2,9 @@ body {
   font-family: 'Ubuntu', sans-serif;
   text-align: center;
 }
+img#owl {
+  padding-top: 50px;
+  height: 250px;
+  width: 250px;
+}
 
